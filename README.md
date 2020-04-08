@@ -30,13 +30,16 @@ the site always keeps users informed of where they are on the page and enables t
   ### Coursicle
   
 ## 4. CONSISTENCY AND STANDARDS
-	Users should not have to wonder whether different words, situations, or actions mean the same thing. 
-	Follow platform conventions. 
+
   ### Amazon
   • When trying to add an item to a wedding directory, for some items, the option to add to the wedding directory is not available. If Amazon is giving the option to add certain items to a wedding directory, this option should be available consistently to all items. Another way to solve this issue is allowing the user to select an option in their settings that allows them to show the wedding directory option on each item they view or to not include the option at all.(3)\
-  • After searching for an item on Amazon, sometimes the list of items are listed in strips, but other times the items are listed in a grid pattern. This causes inconsistency with how items are listed and can cause confusion for users. In order to improve this heuristic, Amazon should choose one type of list display and use the same display for every item search.(3)
- 
+  • After searching for an item on Amazon, sometimes the list of items are listed in strips, but other times the items are listed in a grid pattern. This causes inconsistency with how items are listed and can cause confusion for users. In order to improve this heuristic, Amazon should choose one type of list display and use the same display for every item search.(3)\
+  • For each item on Amazon, the color of the price of each item is the same color as the amount you save using Amazon's price. This creates confusion for users and possible misunderstandings because it makes them wonder which price is the actual price of the item. Users need to read the small text next to each price to decifer the difference between both prices. In order to prevent this issue from occurring, Amazon should make each price a different color and enlarge the text for the actual price of the item. (2)\
+  • For some items, Amazon does not show its price until you click the specific color and/or size of the product. This can cause confusion for users as they might not know that they have to choose specific items to find the price for some items. In order to improve consistency throughout their site, Amazon should include a warning where the price would normally be, suggesting that price fluctuates between sizes and colors and prompting the user to select his or her size and ideal color of the item to find the most accurate price. (3)\
+  • For some items, Amazon provides an option for users to sign up for a subscription to have that item delivered to them every few weeks or months. While this may be an efficient shopping option for some users, other users prefer to only make a standard, one-time purchase. In addition, for these subscribable items, Amazon has the subscription option displayed first and users must click another option to return to the standard one-time purchase option. However, the subscribe button is also the same color and in the same location as where the add-to-cart button would be for a standard, one-time purchase item. Therefore, if users are not careful enough to read the fine print, they may accidently subscribe to weekly or monthly shipments of the product they only wanted delivered to them once. This potential issue is due to Amazon's inconsistency with its optional subscription items. In order to improve this issue, Amazon should have the one-time purchase option displayed first because it is the standard option, and have users who want the subscription to click for that option. Another way Amazon could improve this heuristic is to have Amazon make the subscription option a different color so it is clear to users that it is a separate option from a one-time purchase. (1) 
+  
   ### Coursicle
+  • When browsing for classes on Coursicle, each class is a different color. However, when you add the class into your schedule, the class is now a different color compared to that in the browse section. This inconsistency on Coursicle can cause confusion for users who associate color to courses and may cause them to think that the classes on their schedule are different from the ones they tried to add from the browse section. In order to prevent this misunderstanding, Coursicle should make the color of each class on the schedule to match its color on the browse section. (2)
   
 ## 5. ERROR PREVENTION
 	Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
@@ -65,9 +68,6 @@ the site always keeps users informed of where they are on the page and enables t
   ### Coursicle
   
 ## 9. HELP USERS RECOGNIZE, DAIGNOSE, AND RECOVER FROM ERRORS
-	Expressed in plain language (no codes)
-	Precisely indicate the problem
-	Constructively suggest a solution. 
   ### Amazon
    Amazon does not have any issues with this heuristic for the following reasons:\
    • When there is an error on Amazon's end, Amazon apologizes for their error and includes a picture of a cute dog to make the error page more enjoyable for users and less frustrating. In addition, Amazon prompts the user to click the back arrow to try to go back or attempt to return to the Amazon homepage in order to solve the issue. Therefore, no improvements are needed for this site.\
