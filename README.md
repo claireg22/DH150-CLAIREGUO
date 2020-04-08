@@ -34,6 +34,7 @@ the site always keeps users informed of where they are on the page and enables t
   ### Amazon
   • When trying to add an item to a wedding directory, for some items, the option to add to the wedding directory is not available. If Amazon is giving the option to add certain items to a wedding directory, this option should be available consistently to all items. Another way to solve this issue is allowing the user to select an option in their settings that allows them to show the wedding directory option on each item they view or to not include the option at all.\
   • After searching for an item on Amazon, sometimes the list of items are listed in strips, but other times the items are listed in a grid pattern. This causes inconsistency with how items are listed and can cause confusion for users. In order to improve this heuristic, Amazon should choose one type of list display and use the same display for every item search.\
+  <img src=”./strip-amazon.png” width=”50%”>
   
   ### Coursicle
   
