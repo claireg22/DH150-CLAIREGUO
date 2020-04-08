@@ -1,5 +1,5 @@
 # CLAIREGUO-DH150
-INSERT INTRO STUFF HERE
+
 the site always keeps users informed of where they are on the page and enables their users to have control over their actions on the site.
 
 ## 1. VISIBILITY OF SYSTEM STATUS
@@ -27,7 +27,11 @@ the site always keeps users informed of where they are on the page and enables t
 	Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
 	Support undo and redo. 
   ### Amazon
+  • If a user accidently adds an item into their cart, Amazon leads them to a separate page, confirming that the item was added into the cart. However, this confirmation page does not have an option to remove the item from the cart in case it was added by mistake. In addion, if the user presses the back button on Chrome to return back to the item's site, there is no option to remove that item from the cart. The only way to remove the item is by going to the cart and manually removing it there. This puts a lot more work on the user to try to undo their mistakes and makes the shopping experience on Amazon less enjoyable. In order to improve this heuristic, Amazon should add a "Remove from cart" button on the confirmation page. (2)\
+  • However, one way Amazon uses this heuristic well is through its "Buy now" option. Since the "Buy now" button is right underneath the "Add to cart" button, many users might accidently click the wrong button. When a user clicks "Buy now," a pop up appears that allows users to check out right away. However, there is a clearly marked "X" at the top right corner of the pop up that users can click to quickly exit the checkout and an unwanted state. Therefore, no improvements are needed for this.
   ### Coursicle
+  • When users click "Catalog" on Coursicle, they are led to a seperate page where there is no distinct way to leave or return back to the original browse or scheduling screen. The only way to return back to the homepage is by clicking the back button on Chrome or clicking the Coursicle logo in the top left corner. But of these options are not clearly marked "out" icons to leave the catalog site. In order to give the user more control and freedom when navigating through Coursicle, an "X" button should be placed on the top right corner of the screen to clearly show a way out of the screen. (2)
+  • Coursicle also does not support undo/redo when adding or removing a class from the user's schedule. The only way users can readd classes they may have accidently deleted is by finding them again using the browse function and adding the class again onto the schedule. This gives less control to users when fixing their mistakes. In order to improve this heuristics, Coursicle should either add undo/redo buttons or support undo and redo through Chrom. (3)
   
 ## 4. CONSISTENCY AND STANDARDS
 
