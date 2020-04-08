@@ -6,8 +6,8 @@ the site always keeps users informed of where they are on the page and enables t
 	Always keep users informed about what is going on.
 	Provide appropriate feedback within reasonable time. 
   ### Amazon
-Amazon does not have any issues with this heuristic for the following reasons:
-• On any screen, Amazon shows users how many items they have in their cart, informing users that items were successfully added to their cart and keeping users informed on how items they have saved and intend on buying. 
+    Amazon does not have any issues with this heuristic for the following reasons:
+   • On any screen, Amazon shows users how many items they have in their cart, informing users that items were successfully added to their cart and keeping users informed on how items they have saved and intend on buying. 
 • 
 ### Coursicle
 ## 2. MATCH BETWEEN SYSTEM AND THE REAL WORLD
