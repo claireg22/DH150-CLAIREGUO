@@ -6,10 +6,10 @@ the site always keeps users informed of where they are on the page and enables t
 	Always keep users informed about what is going on.
 	Provide appropriate feedback within reasonable time. 
   ### Amazon
-   Amazon does not have any issues with this heuristic for the following reasons:
-   • On any screen, Amazon shows users how many items they have in their cart, informing users that items were successfully added to their cart and keeping users informed on how items they have saved and intend on buying. 
-  • When viewing items in the cart, Amazon provides the total price of the user's entire purchase as well as how many total items the user plans on purchasing as well, informing the user about the summary of his or her purchase.
-  • After the user adds an item into their cart, the user is taken to another screen where it displays a confirmation that the item was successfully added to the cart. This clearly shows the user that their request went through.
+   Amazon does not have any issues with this heuristic for the following reasons:\
+   • On any screen, Amazon shows users how many items they have in their cart, informing users that items were successfully added to their cart and keeping users informed on how items they have saved and intend on buying. \
+  • When viewing items in the cart, Amazon provides the total price of the user's entire purchase as well as how many total items the user plans on purchasing as well, informing the user about the summary of his or her purchase. \
+  • After the user adds an item into their cart, the user is taken to another screen where it displays a confirmation that the item was successfully added to the cart. This clearly shows the user that their request went through. \
   • When checking out, Amazon makes it clear that the user is in the check out area and no longer in their cart by bringing the user into a separate, isolated screen where the user can input their address and checkout information. This clear differentiation between the cart and checkout area communicates to the user that, when in the checkout area, their private information is being protected and that they are about to make a purchase.
   ### Coursicle
   Coursicle does not have any issues with this heuristic for the following reasons:
