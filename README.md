@@ -57,10 +57,13 @@ the site always keeps users informed of where they are on the page and enables t
   ### Coursicle
   
 ## 7. FLEXIBILITY AND EFFICIENCY OF USE
-	Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
-	Allow users to tailor frequent actions. 
   ### Amazon
+  • From my observation, there are no accelerators on Amazon. However, I believe that there should be simple accelerators in the form of keyboard shortcuts to make adding items to the cart and checking out more efficient for expert users because these are simple and repetitive actions performed on the site.(3)
+  • While Amazon has filters that users can choose to narrow down their searches, there are too many filter options that it takes too long to read and choose select options. As a result, having too many filter options make them inefficient to users. Amazon should narrow their filters, or group their filters into drop-down menus by category (ex. one drop-down menu for reviews and another for brands, etc.) so users can decide which filters they want to use without being overwhelmed and having to see all of the filter options cluttered together. (2)
   ### Coursicle
+  Coursicle does not have any issues with this heuristic for the following reasons:\
+  • There is no accelerator on Coursicle. However, I believe Coursicle does not need an accelerator because all of the functions and actions on the page are simple and both novice and expert users can easily access and use them. Adding an accelerator is unnecessary and it would not cause a drastic increase in efficiency. Therefore, no improvements are needed for this site.\
+  • When a user searches for classes on the catalog option on Coursicle, they can also add classes they found on the Catalog onto their schedule. This allows for greater flexibility because users can add classes in multiple ways and according to their preference, whether they prefer to use browse to search for classes, or use the course catalog. Therefore, no improvements are needed for this site.\
   
 ## 8. AESTHETIC AND MINIMALIST DESIGN
 	Dialogues should not contain information which is irrelevant or rarely needed. 
