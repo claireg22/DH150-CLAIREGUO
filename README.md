@@ -69,6 +69,7 @@ the site always keeps users informed of where they are on the page and enables t
 	Precisely indicate the problem
 	Constructively suggest a solution. 
   ### Amazon
+  •
   ### Coursicle
   • When there are no classes available after the user browses the site under a certain set of filters, Coursicle returns an error message stating that there are no results and prompts the user to select different filters. While this error message does suggest that the user find a solution by changing around the filters, the solution is very general and obvious. Coursicle can improve in this heuristic by telling the user which filter(s) specifically has caused the error. This way the user will know precisely which filter(s) they need to change and can keep the other filters the same. (3)
   
@@ -76,4 +77,4 @@ the site always keeps users informed of where they are on the page and enables t
   ### Amazon
   • While Amazon's "Help" page is easy to navigate, in which help information is easy to search and Amazon provides direct links to sites or functions that bring the user directly to pages that navigate the user through specific steps to carry out their tasks, the "Help" button is hard to find. It is located at bottom right of the footer on every screen in small text, surrounded by other functions as well. In order to make this function more visible and easy to find, Amazon should put a help icon ('?') at the top of the site on the header so it will be accessible from every interface.(2)
   ### Coursicle
-  • Coursicle does not have a help feature or page at all. This makes it impossible for Coursicle to provide solutions to users who are unfamiliar at navigating through the site. I suggest that Coursicle add a visible and easy-access help feature on their site's top dashboard that users can click to search for help on specific features on Coursicle.(1)\
+  • Coursicle does not have a help feature or page at all. This makes it impossible for Coursicle to provide solutions to users who are unfamiliar at navigating through the site. I suggest that Coursicle add a visible and easy-access help feature on their site's top dashboard that users can click to search for help on specific features on Coursicle.(1)
